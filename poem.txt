@@ -1,8 +1,10 @@
-Anotimpurile si Diviziunile
+Anotimpurile ,Diviziunile si Clima
 
 Primavara
 Vara
 Toamna
 Iarna
+Tropical-umed
 Acestea sunt anotimpurile anului.
 Cele 4 diviziuni ale anului
+Clima tropical-umed.
