@@ -7,5 +7,5 @@ Galben
 Verde
 Albastru
 Indigo
-Violet
+
 Acestea sunt culorile curcubeului.
