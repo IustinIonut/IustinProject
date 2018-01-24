@@ -3,5 +3,5 @@ Anotimpurile
 Primavara
 Vara
 Toamna
-
+Iarna
 Acestea sunt anotimpurile anului.
